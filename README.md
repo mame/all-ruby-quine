@@ -1,4 +1,4 @@
-# all-ruby-qunie
+# all-ruby-quine
 
 This program is a Quine, which works with all release versions of CRuby, from Ruby 0.49 (released in 1994) to Ruby 3.2.1 (released in 2023).
 
